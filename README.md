@@ -1,1 +1,3 @@
 # Breathe_to_Live
+
+Air pollution is a burning issue in the modern age as it is causing damage to human health and ecosystems. One of the main causes of air pollution is urbanization. Through urbanization, the number of industries and factories increasing day by day. Preventing pollution is the only way we can breathe safely on earth. “Breathe to Live” is a mobile-based application that detects and monitors toxic particles in the air and filters them by an air purifier tower planted near the emission source. It will alert the user if sudden emission happens, notify air particles level, suggest a safe place near him by collecting data from NASA’s open-source database and show all updates of air purifier tower.
